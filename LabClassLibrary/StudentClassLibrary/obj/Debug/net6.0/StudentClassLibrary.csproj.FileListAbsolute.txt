@@ -1,0 +1,12 @@
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\bin\Debug\net6.0\StudentClassLibrary.deps.json
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\bin\Debug\net6.0\StudentClassLibrary.dll
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\bin\Debug\net6.0\StudentClassLibrary.pdb
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\StudentClassLibrary.csproj.AssemblyReference.cache
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\StudentClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\StudentClassLibrary.AssemblyInfoInputs.cache
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\StudentClassLibrary.AssemblyInfo.cs
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\StudentClassLibrary.csproj.CoreCompileInputs.cache
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\StudentClassLibrary.dll
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\refint\StudentClassLibrary.dll
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\StudentClassLibrary.pdb
+C:\Work Code\OOP\LabClassLibrary\StudentClassLibrary\obj\Debug\net6.0\ref\StudentClassLibrary.dll
